@@ -8,17 +8,21 @@ These fonts were drawn on unceded lands of the Wurundjeri people of the Kulin Na
 
 New fonts will be developed and released with each issue of *The Sunday Paper*.
 
-![sunday-masthead](/Users/dennisgrauel/Dropbox/Type/The Sunday Paper/sunday-masthead.png)
+![sunday-masthead](/documentation/images/sunday-masthead.png)
 
 Sunday Masthead is used as the masthead for *The Sunday Paper*. Only the characters used in the masthead are resolved, but the typeface may be expanded for headline use in the future.
 
-![sunday-protest-marker](/Users/dennisgrauel/Dropbox/Type/The Sunday Paper/sunday-protest-marker.png)
+![sunday-protest-marker](/documentation/images/sunday-protest-marker.png)
 
 Sunday Protest Hand is drawn from the lettering of editor Yul Scarf on a solidarity placard. Currently only A–Z is covered.
 
-![sunday-hand](/Users/dennisgrauel/Dropbox/Type/The Sunday Paper/sunday-hand.png)
+![sunday-hand](/documentation/images/sunday-hand.png)
 
 Sunday Hand is a rationalised/regularised drawing from a sketch by The Sunday Paper contributor Alissar Chidiac.
+
+![sunday-collaborative-alphabet](/documentation/images/sunday-collaborative-alphabet.gif)
+
+Sunday Collaborative Alphabet germinated as a collective drawing exercise, where contributors from *The Sunday Paper* each added one straight line per character.
 
 ## License
 
