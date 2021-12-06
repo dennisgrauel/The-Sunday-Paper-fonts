@@ -10,21 +10,21 @@ New fonts will be developed and released with each issue of *The Sunday Paper*.
 
 ![sunday-masthead](/documentation/images/sunday-masthead.png)
 
-Sunday Masthead is used as the masthead for *The Sunday Paper*. Only the characters used in the masthead are resolved, but the typeface may be expanded for headline use in the future.
+**Sunday Masthead** is used as the masthead for *The Sunday Paper*. Only the characters used in the masthead are resolved, but the typeface may be expanded for headline use in the future.
 
 ![sunday-protest-marker](/documentation/images/sunday-protest-marker.png)
 
-Sunday Protest Hand is drawn from the lettering of editor Yul Scarf on a solidarity placard. Currently only A–Z is covered.
+**Sunday Protest Hand** is drawn from the lettering of editor Yul Scarf on a solidarity placard. Currently only A–Z is covered.
 
 ![sunday-hand](/documentation/images/sunday-hand.png)
 
-Sunday Hand is a rationalised/regularised drawing from a sketch by The Sunday Paper contributor Alissar Chidiac.
+**Sunday Hand** is a rationalised/regularised drawing from a sketch by The Sunday Paper contributor Alissar Chidiac.
 
 ![sunday-collaborative-alphabet](/documentation/images/sunday-collaborative-alphabet.gif)
 
-Sunday Collaborative Alphabet germinated as a collective drawing exercise, where contributors from *The Sunday Paper* each added one straight line per character.
+**Sunday Collaborative Alphabet** germinated as a collective drawing exercise, where contributors from *The Sunday Paper* each added one straight line per character.
 
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at http://scripts.sil.org/OFL
+This Font Software is licensed under the SIL Open Font License, Version 1.1. The license is included in this repository, and is also available with a FAQ at http://scripts.sil.org/OFL
 
