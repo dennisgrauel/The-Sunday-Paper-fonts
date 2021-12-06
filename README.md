@@ -2,7 +2,7 @@
 
 This is the font library of The Sunday Paper, an independent publication centering the voices of Aboriginal, Torres Strait Islander and Palestinian people and their allies. The publication also holds voices in boycott of Schwartz Media.
 
-*The Sunday Paper* is available via <thesundaypaper.com.au>.
+*The Sunday Paper* is available via <https://www.thesundaypaper.com.au>.
 
 These fonts were drawn on unceded lands of the Wurundjeri people of the Kulin Nation. 
 
