@@ -1,5 +1,5 @@
 {
-.appVersion = "3108";
+.appVersion = "3112";
 .formatVersion = 3;
 DisplayStrings = (
 "HH/Placeholder HOHO/Placeholder OO
@@ -63,15 +63,9 @@ GSRoughenVertical = 50;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2021-11-05 06:26:50 +0000";
+lastChange = "2022-02-15 01:53:45 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-locked = 1;
-pos = (-12020,-4415);
-scale = (14.2531,14.2531);
-};
 hints = (
 {
 name = _corner.round1;
@@ -310,15 +304,9 @@ unicode = 67;
 },
 {
 glyphname = D;
-lastChange = "2021-11-05 06:57:03 +0000";
+lastChange = "2022-02-15 01:53:48 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-locked = 1;
-pos = (-6426,-5544);
-scale = (14.2531,14.2531);
-};
 layerId = m01;
 shapes = (
 {
@@ -378,15 +366,9 @@ unicode = 68;
 },
 {
 glyphname = E;
-lastChange = "2021-11-05 06:34:31 +0000";
+lastChange = "2022-02-15 01:53:51 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-locked = 1;
-pos = (-8844,-2756);
-scale = (14.2531,14.2531);
-};
 layerId = m01;
 shapes = (
 {
@@ -445,15 +427,9 @@ unicode = 69;
 },
 {
 glyphname = F;
-lastChange = "2021-11-05 06:42:55 +0000";
+lastChange = "2022-02-15 01:53:53 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-locked = 1;
-pos = (-5945,-4221);
-scale = (14.2531,14.2531);
-};
 layerId = m01;
 shapes = (
 {
@@ -519,15 +495,9 @@ unicode = 70;
 },
 {
 glyphname = G;
-lastChange = "2021-11-05 05:17:44 +0000";
+lastChange = "2022-02-15 01:53:55 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-locked = 1;
-pos = (-5756,-2496);
-scale = (13.5541,13.5541);
-};
 layerId = m01;
 shapes = (
 {
@@ -588,7 +558,7 @@ unicode = 71;
 },
 {
 glyphname = H;
-lastChange = "2021-11-06 05:42:58 +0000";
+lastChange = "2022-02-15 01:53:56 +0000";
 layers = (
 {
 background = {
@@ -689,11 +659,6 @@ nodes = (
 }
 );
 };
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-pos = (-4185,-4221);
-scale = (14.2531,14.2531);
-};
 layerId = m01;
 shapes = (
 {
@@ -753,14 +718,9 @@ unicode = 72;
 },
 {
 glyphname = I;
-lastChange = "2021-11-04 02:24:34 +0000";
+lastChange = "2022-02-15 01:53:58 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-pos = (-2573,-4221);
-scale = (14.2531,14.2531);
-};
 layerId = m01;
 shapes = (
 {
@@ -928,15 +888,9 @@ unicode = 75;
 },
 {
 glyphname = L;
-lastChange = "2021-11-05 05:22:53 +0000";
+lastChange = "2022-02-15 01:53:41 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-locked = 1;
-pos = (-5101,-5692);
-scale = (14.2531,14.2531);
-};
 layerId = m01;
 shapes = (
 {
@@ -1039,15 +993,9 @@ unicode = 77;
 },
 {
 glyphname = N;
-lastChange = "2021-11-05 06:08:41 +0000";
+lastChange = "2022-02-15 01:53:38 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-locked = 1;
-pos = (-10915,-4354);
-scale = (14.2531,14.2531);
-};
 layerId = m01;
 shapes = (
 {
@@ -1243,15 +1191,9 @@ unicode = 79;
 },
 {
 glyphname = P;
-lastChange = "2021-11-06 05:47:39 +0000";
+lastChange = "2022-02-15 01:53:34 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-locked = 1;
-pos = (-3883,-385);
-scale = (8.6017,8.6017);
-};
 hints = (
 {
 name = _corner.round1;
@@ -1527,15 +1469,9 @@ unicode = 81;
 },
 {
 glyphname = R;
-lastChange = "2021-11-05 07:24:14 +0000";
+lastChange = "2022-02-15 01:53:28 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-locked = 1;
-pos = (-13761,-3010);
-scale = (14.2531,14.2531);
-};
 hints = (
 {
 name = _corner.round1;
@@ -1612,15 +1548,9 @@ unicode = 82;
 },
 {
 glyphname = S;
-lastChange = "2021-11-05 06:16:06 +0000";
+lastChange = "2022-02-15 01:53:31 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-locked = 1;
-pos = (-9582,-2890);
-scale = (14.2531,14.2531);
-};
 layerId = m01;
 shapes = (
 {
@@ -1679,15 +1609,9 @@ unicode = 83;
 },
 {
 glyphname = T;
-lastChange = "2021-11-05 07:26:59 +0000";
+lastChange = "2022-02-15 01:54:02 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-locked = 1;
-pos = (-2845,-2667);
-scale = (14.2531,14.2531);
-};
 hints = (
 {
 name = _corner.round1;
@@ -1754,15 +1678,9 @@ unicode = 84;
 },
 {
 glyphname = U;
-lastChange = "2021-11-05 06:00:22 +0000";
+lastChange = "2022-02-15 01:54:04 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-locked = 1;
-pos = (-5065,-2752);
-scale = (14.2531,14.2531);
-};
 layerId = m01;
 shapes = (
 {
@@ -1860,15 +1778,9 @@ unicode = 86;
 },
 {
 glyphname = W;
-lastChange = "2021-11-06 05:55:57 +0000";
+lastChange = "2022-02-15 01:54:07 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-locked = 1;
-pos = (-1292,-4169);
-scale = (14.2531,14.2531);
-};
 hints = (
 {
 name = _corner.round1;
@@ -2018,15 +1930,9 @@ unicode = 88;
 },
 {
 glyphname = Y;
-lastChange = "2021-11-06 05:50:27 +0000";
+lastChange = "2022-02-15 01:54:11 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-locked = 1;
-pos = (-11636,-6211);
-scale = (14.2531,14.2531);
-};
 hints = (
 {
 name = _corner.round1;
@@ -3238,7 +3144,7 @@ unicode = 45;
 },
 {
 glyphname = ampersand;
-lastChange = "2021-11-06 06:04:56 +0000";
+lastChange = "2022-02-15 01:54:21 +0000";
 layers = (
 {
 background = {
@@ -3305,12 +3211,6 @@ nodes = (
 );
 }
 );
-};
-backgroundImage = {
-imagePath = "../../../reference/IMG_3370.jpg";
-locked = 1;
-pos = (-12885,-2467);
-scale = (10.8849,10.8849);
 };
 hints = (
 {
