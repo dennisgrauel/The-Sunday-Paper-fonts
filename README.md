@@ -24,7 +24,10 @@ New fonts will be developed and released with each issue of *The Sunday Paper*.
 
 **Sunday Collaborative Alphabet** germinated as a collective drawing exercise, where contributors from *The Sunday Paper* each added one straight line per character.
 
+![sunday-tb-hand](/documentation/images/sunday-tb-hand.png)
+
+**Sunday TB Hand** is a handwriting font based on the scrawled notes of Issue 2 contributor Timmah Ball.
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. The license is included in this repository, and is also available with a FAQ at http://scripts.sil.org/OFL
-
