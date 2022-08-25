@@ -1,15 +1,15 @@
 {
-.appVersion = "3123";
+.appVersion = "3134";
 .formatVersion = 3;
 DisplayStrings = (
 "nn/Placeholder nono/Placeholder oo
-a/a.ss01 b/b.ss01 c/c.ss01 d/d.ss01 e/e.ss01 f/f.ss01 g/g.ss01 hi/i.ss01 jk/k.ss01 l/l.ss01 m/m.ss01 n/n.ss01 ŋo/o.ss01 p/p.ss01 qr/r.ss01 s/s.ss01/s.ss02 t/t.ss01 u/u.ss01 v/v.ss01 w/w.ss01 xy/y.ss01 z
+a/a.ss01 b/b.ss01 c/c.ss01 d/d.ss01 e/e.ss01 f/f.ss01 g/g.ss01 hi/i.ss01 jk/k.ss01 l/l.ss01 m/m.ss01 n/n.ss01 ŋo/o.ss01 p/p.ss01 r/r.ss01 s/s.ss01/s.ss02 t/t.ss01 u/u.ss01 v/v.ss01 w/w.ss01 xy/y.ss01 z
 /a.ss01/c.ss01/d.ss01/e.ss01/f.ss01/g.ss01/i.ss01/k.ss01/o.ss01/p.ss01/s.ss01/t.ss01/y.ss01 
 /f_i/t_t/o_f/t_r 
 HH/Placeholder HOHO/Placeholder OO
-ABCDEFGHOIJKLM
-NOPQRtSTUVWXYZ
-Yolŋu
+ABCDEFGHOIJLM
+OPRtSTVWY
+Yolŋu/.notdef 
 00001111111
 11/Placeholder 1010/Placeholder 00
 01203456789
@@ -23,7 +23,7 @@ If this position /s.ss02 eems absurd or even arrogant it arguably reflects conte
 classes = (
 {
 automatic = 1;
-code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n eng o p q r s t u v w x y z a.ss01 b.ss01 c.ss01 d.ss01 e.ss01 f.ss01 g.ss01 i.ss01 k.ss01 l.ss01 m.ss01 n.ss01 o.ss01 p.ss01 r.ss01 s.ss01 t.ss01 u.ss01 v.ss01 w.ss01 y.ss01 s.ss02 f_i o_f t_r t_t zero one two three four five six seven eight nine space period comma hyphen plus";
+code = "A B C D E F G H I J L M O P R S T V W Y a b c d e f g h i j k l m n eng o p r s t u v w x y z a.ss01 b.ss01 c.ss01 d.ss01 e.ss01 f.ss01 g.ss01 i.ss01 k.ss01 l.ss01 m.ss01 n.ss01 o.ss01 p.ss01 r.ss01 s.ss01 t.ss01 u.ss01 v.ss01 w.ss01 y.ss01 s.ss02 f_i o_f t_r t_t zero one two three four five six seven eight nine space period comma hyphen plus";
 name = All;
 },
 {
@@ -41,8 +41,14 @@ code = "a.ss01 b.ss01 c.ss01 d.ss01 e.ss01 f.ss01 g.ss01 i.ss01 k.ss01 l.ss01 m.
 name = alt2;
 }
 );
+customParameters = (
+{
+name = "Use Typo Metrics";
+value = 1;
+}
+);
 date = "2022-03-19 08:01:37 +0000";
-familyName = "Sunday TB Hand 0.3";
+familyName = "Sunday TB Hand";
 featurePrefixes = (
 {
 automatic = 1;
@@ -163,6 +169,40 @@ tag = ss02;
 );
 fontMaster = (
 {
+customParameters = (
+{
+name = hheaAscender;
+value = 1260;
+},
+{
+name = hheaDescender;
+value = -700;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 1260;
+},
+{
+name = typoDescender;
+value = -700;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1260;
+},
+{
+name = winDescent;
+value = 700;
+}
+);
 id = m01;
 metricValues = (
 {
@@ -192,10 +232,9 @@ pos = 8;
 name = Regular;
 userData = {
 GSOffsetCapStyle = 1;
-GSOffsetHorizontal = 32;
+GSOffsetHorizontal = 7;
 GSOffsetKeepCompatible = 1;
-GSOffsetMakeStroke = 1;
-GSOffsetVertical = 28;
+GSOffsetVertical = 8;
 };
 }
 );
@@ -856,20 +895,28 @@ width = 926;
 unicode = 74;
 },
 {
-glyphname = K;
+glyphname = L;
+lastChange = "2022-08-24 09:17:26 +0000";
 layers = (
 {
-layerId = m01;
-width = 600;
-}
-);
-unicode = 75;
+anchors = (
+{
+name = bottom;
+pos = (359,0);
 },
 {
-glyphname = L;
-lastChange = "2022-05-06 03:41:33 +0000";
-layers = (
+name = center;
+pos = (415,400);
+},
 {
+name = top;
+pos = (472,800);
+},
+{
+name = topright;
+pos = (842,800);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -961,16 +1008,6 @@ width = 926;
 }
 );
 unicode = 77;
-},
-{
-glyphname = N;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 78;
 },
 {
 glyphname = O;
@@ -1107,16 +1144,6 @@ width = 658;
 }
 );
 unicode = 80;
-},
-{
-glyphname = Q;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 81;
 },
 {
 glyphname = R;
@@ -1289,16 +1316,6 @@ width = 773;
 unicode = 84;
 },
 {
-glyphname = U;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 85;
-},
-{
 glyphname = V;
 lastChange = "2022-05-06 03:41:33 +0000";
 layers = (
@@ -1399,16 +1416,6 @@ width = 788;
 unicode = 87;
 },
 {
-glyphname = X;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 88;
-},
-{
 glyphname = Y;
 lastChange = "2022-04-11 07:38:11 +0000";
 layers = (
@@ -1457,16 +1464,6 @@ width = 616;
 }
 );
 unicode = 89;
-},
-{
-glyphname = Z;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 90;
 },
 {
 glyphname = a;
@@ -2541,16 +2538,6 @@ width = 653;
 }
 );
 unicode = 112;
-},
-{
-glyphname = q;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 113;
 },
 {
 glyphname = r;
@@ -5218,6 +5205,107 @@ width = 633;
 unicode = 57;
 },
 {
+glyphname = .notdef;
+lastChange = "2022-08-24 08:12:36 +0000";
+layers = (
+{
+backgroundImage = {
+imagePath = "/Users/dennisgrauel/Dropbox/Screenshots/Screen Shot 2022-08-24 at 6.04.59 pm.png";
+locked = 1;
+pos = (-41,-160);
+scale = (4.0123,4.0123);
+};
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(699,120,o),
+(833,236,o),
+(859,270,cs),
+(894,319,o),
+(884,361,o),
+(796,331,cs),
+(637,274,o),
+(434,143,o),
+(266,71,cs),
+(253,66,o),
+(255,73,o),
+(263,80,cs),
+(395,191,o),
+(777,442,o),
+(845,514,cs),
+(906,579,o),
+(845,596,o),
+(787,572,cs),
+(631,507,o),
+(468,426,o),
+(323,352,c),
+(322,350,l),
+(438,440,o),
+(666,603,o),
+(756,681,cs),
+(806,725,o),
+(786,781,o),
+(727,757,cs),
+(538,681,o),
+(302,558,o),
+(144,470,c),
+(149,472,l),
+(299,582,o),
+(480,715,o),
+(653,848,cs),
+(686,872,o),
+(639,907,o),
+(607,878,cs),
+(454,736,o),
+(243,586,o),
+(97,477,cs),
+(40,435,o),
+(75,385,o),
+(142,422,cs),
+(314,515,o),
+(526,634,o),
+(729,711,c),
+(725,711,l),
+(571,588,o),
+(403,465,o),
+(249,340,cs),
+(183,288,o),
+(249,262,o),
+(304,294,cs),
+(453,379,o),
+(664,481,o),
+(799,534,cs),
+(809,538,o),
+(807,533,o),
+(804,530,cs),
+(634,387,o),
+(342,205,o),
+(189,68,cs),
+(129,14,o),
+(187,-14,o),
+(250,14,cs),
+(446,103,o),
+(648,225,o),
+(791,281,cs),
+(795,283,o),
+(800,281,o),
+(793,274,cs),
+(709,195,o),
+(585,99,o),
+(477,16,cs),
+(457,1,o),
+(474,-35,o),
+(513,-8,cs)
+);
+}
+);
+width = 910;
+}
+);
+},
+{
 glyphname = space;
 lastChange = "2022-03-23 22:27:33 +0000";
 layers = (
@@ -5430,5 +5518,5 @@ type = "italic angle";
 );
 unitsPerEm = 1000;
 versionMajor = 0;
-versionMinor = 30;
+versionMinor = 33;
 }
